@@ -1,0 +1,13 @@
+name = "debsmikle"
+author = "JBMagination"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0ef2e34e91dad00e24a0e433a0dac3cc023f4ebf94cce4df9ca7553d3a297b4a"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19.1"

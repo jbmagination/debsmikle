@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = views-latest.at.playit.gg:14908
+}
+
