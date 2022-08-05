@@ -354,6 +354,11 @@ hash = "394c342b527dacb000b47c9ffef045daea3861217e74d1cdc0047a8deb44b7c6"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
@@ -390,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d09cd1d0aedef9f4c6acceda635ba7c9d33e688d2cda51f299d9acca1156ea1a"
 metafile = true
 
 [[files]]
