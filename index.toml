@@ -369,6 +369,10 @@ hash = "502e0c7233bdf64b1240ef76bb22fedc07ea3769a2e76e8ed4186b209fd93433"
 metafile = true
 
 [[files]]
+file = "mods/jumploader-2.4.0.jar"
+hash = "e54188cb9138c1d2e87950dc85bdc20cc582566d7437c730ac0a94db6c7fb2ec"
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "50ad99044311b056bae0c7274c2cac172a9fca0b49b6374e1368cc17c2c546c8"
 metafile = true
