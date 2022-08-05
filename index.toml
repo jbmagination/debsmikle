@@ -450,6 +450,10 @@ hash = "271db4eeb581bb1e71081b2b6268e81ac83bf68208a062dc63cd462faa2f7730"
 metafile = true
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "realms_persistence.json"
 hash = "c7029972d0c8fcca44b9bbbfa35711befcb5a0d89e1c848f58319f8a916ea3e1"
 
