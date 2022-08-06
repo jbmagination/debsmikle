@@ -1,214 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".fabric/processedMods/cloth-basic-math-0.6.1-17ea6dce277cc3b8.jar"
-hash = "2527eb04394e7a13fa5b8884baa9319f60b07ad6229d759f9451563cd113c059"
-
-[[files]]
-file = ".fabric/processedMods/fabric-api-base-0.4.9+e62f51a395-a028b6a45383d25f.jar"
-hash = "c77dfef395fc2af5d584c5d417402e7433d89bd43c697bbef17c679b275ab7f2"
-
-[[files]]
-file = ".fabric/processedMods/fabric-api-lookup-api-v1-1.6.7+9ff28f4095-d74b86597d37e418.jar"
-hash = "8822713b472304c2fca299e8691593ff9236d5f56021648c9553b2a4937bd01d"
-
-[[files]]
-file = ".fabric/processedMods/fabric-biome-api-v1-9.0.15+d5533c0195-c24b4edc3e78d68d.jar"
-hash = "f0c6524b20b4a80d687bdc13d7a40af24ff6442e8d0278f7b43d89bf9a1ea4ce"
-
-[[files]]
-file = ".fabric/processedMods/fabric-blockrenderlayer-v1-1.1.1+9ff28f4095-9f0716fec2e02f87.jar"
-hash = "99896216ae64923e80a6f5ddcbce32a6f2fc735851f13a90dcb473256f3ad8dc"
-
-[[files]]
-file = ".fabric/processedMods/fabric-command-api-v1-1.2.9+f71b366f95-7fef8477b62cd733.jar"
-hash = "08b1c270de1544431971c65b51c0d2894882ca6f42e3a9689e5a252992b0d122"
-
-[[files]]
-file = ".fabric/processedMods/fabric-command-api-v2-2.1.5+0c17ea9695-b5c51f41338a42a0.jar"
-hash = "8f930da88cf28c26df7960b5470dd196bf9638e29a2e8e58f937fa01f42f1c51"
-
-[[files]]
-file = ".fabric/processedMods/fabric-commands-v0-0.2.26+df3654b395-98c34e2e81699420.jar"
-hash = "6b943d27284c7184db89bd8ad46528b508d22a84faab1ed9281784b7f22f0f7e"
-
-[[files]]
-file = ".fabric/processedMods/fabric-containers-v0-0.1.31+df3654b395-f69126f4b07479e7.jar"
-hash = "12ceba014de8b9e86de5b4cde9e6da7e3ddd8acbe7be5beb680c59918448d5e6"
-
-[[files]]
-file = ".fabric/processedMods/fabric-content-registries-v0-3.2+07df213e95-eaa4c4c095e25af3.jar"
-hash = "53e00d54299deb13adfd924427789b5f17972e4fec7135e35e49d15804ee3cfd"
-
-[[files]]
-file = ".fabric/processedMods/fabric-convention-tags-v1-1.0.8+37622d2495-9deb17c5a02e38f.jar"
-hash = "117540f72955a784193bd4489bfc0f033c0222a11d547a191ee13db818663674"
-
-[[files]]
-file = ".fabric/processedMods/fabric-crash-report-info-v1-0.2.+bd0a0d4a95-9f24a09fd6d9d892.jar"
-hash = "c9b39ccd2d96bae063d540026b36c938de9fa0b656a5207aa1858a4ec5e10ee1"
-
-[[files]]
-file = ".fabric/processedMods/fabric-data-generation-api-v1-5.+a680b9b495-b67116f3ff8b7922.jar"
-hash = "d5c32ea6115fd114f7fd41502217ba5fd9f706a88df3bcbf43ae0fe3a572549d"
-
-[[files]]
-file = ".fabric/processedMods/fabric-dimensions-v1-2.1.28+a6d2f78595-f3780fe77cb40b3a.jar"
-hash = "fc8d1c885177b7cc9e0748dcaa7b81389a119317f61274184ce667ece7814a64"
-
-[[files]]
-file = ".fabric/processedMods/fabric-entity-events-v1-1.4.16+9ff28f4095-cf408eabdbbe6b97.jar"
-hash = "9004b4a7522d00240b301afe2df8f62e6cebfad2ad2ddfca881906f3bb91b6a1"
-
-[[files]]
-file = ".fabric/processedMods/fabric-events-interaction-v0-0.4+9ff28f4095-6a3e0d1e9e87d524.jar"
-hash = "751e2dda815f56c0780ca7490421a0da6e214f007427304c4a7adc1c8adfc0f1"
-
-[[files]]
-file = ".fabric/processedMods/fabric-events-lifecycle-v0-0.2.2+df3654b395-a3092b2f6229e66c.jar"
-hash = "53dca8ae66008631382e6cc67420b160654c587ee3051cdfce46f29cb25373e3"
-
-[[files]]
-file = ".fabric/processedMods/fabric-game-rule-api-v1-1.0.19+1899036195-273447978e7b8a35.jar"
-hash = "67c9325ac6e63ba80b14f1e647bd73dea09720e92951231ed589bba71ee02f4d"
-
-[[files]]
-file = ".fabric/processedMods/fabric-item-api-v1-1.5.5+35a03c4395-7409d6997133e2ec.jar"
-hash = "ceb500277f9556dc2956167ed2333e7c780e661119a5127fddc058e424ce9bed"
-
-[[files]]
-file = ".fabric/processedMods/fabric-item-groups-v0-0.3.26+9ff28f4095-17ea1cd5b90c4292.jar"
-hash = "73df7e53d906c29daf3dd5856a4e82c31bbd8e0d6c1bf6787c3a9c9ed31da2af"
-
-[[files]]
-file = ".fabric/processedMods/fabric-key-binding-api-v1-1.0.18+9ff28f4095-7f15d864cd349d4d.jar"
-hash = "e540b82a1e26565fcfc540336591b13b2104dede132f0937e20463a5dda81294"
-
-[[files]]
-file = ".fabric/processedMods/fabric-keybindings-v0-0.2.16+df3654b395-78a06be2a87c8942.jar"
-hash = "1af57250cd960edc85f3dc56ef221145e882dbb75e5b98cfc5735926644b2f88"
-
-[[files]]
-file = ".fabric/processedMods/fabric-lifecycle-events-v1-2.1.0+33fbc73895-9e053560b2faf293.jar"
-hash = "308a8a557fecadf726f59bad9d1933ca6c2aa5b2c8257f80b06e9f8518f07f39"
-
-[[files]]
-file = ".fabric/processedMods/fabric-loot-api-v2-1.1.1+03a4e56895-73424e477e6c4629.jar"
-hash = "753fd3f76784d51ff2ebe99d542f6aa62682d866c04206bd854bc11e71c0624c"
-
-[[files]]
-file = ".fabric/processedMods/fabric-loot-tables-v1-1.1.4+9e7660c695-7aed88a73f5ba286.jar"
-hash = "1a2bae7e37c6a8c07309e9913e5b27f5eaf8683475b83609e3073b24198fefd3"
-
-[[files]]
-file = ".fabric/processedMods/fabric-message-api-v1-5.0.1+4e0178f495-8ebc37b437c8b20.jar"
-hash = "09cb7204b2b3b8e0c2e6c1ea24a9be6dbb957312e448ac6717ed509a76e8574a"
-
-[[files]]
-file = ".fabric/processedMods/fabric-mining-level-api-v1-2.1.1+33fbc73895-a641b529d9cc7b38.jar"
-hash = "ecfe80da39d1184411b9be4de662003120667d0ece60b6db2c8ddf3aa2c877cf"
-
-[[files]]
-file = ".fabric/processedMods/fabric-models-v0-0.3.15+9ff28f4095-ff887e14764ae2dd.jar"
-hash = "7ad53c22e0b2bc8c12cfa6fde2195f4dbffb1e73eed012fa5f5a051fc488cf41"
-
-[[files]]
-file = ".fabric/processedMods/fabric-networking-api-v1-1.2.1+3082331495-8356f13f2159763c.jar"
-hash = "cc2f2f9b4d0c967dcd4aef97bc8f2a6da82f4ddaa3ec7fb47efa81c1cb7cc490"
-
-[[files]]
-file = ".fabric/processedMods/fabric-networking-v0-0.3.18+df3654b395-bd091e4df3e3f5ff.jar"
-hash = "c9cb84c5d2bc09d881c22a2b80d7c898bd7490045072158b6fa52153cb48066b"
-
-[[files]]
-file = ".fabric/processedMods/fabric-object-builder-api-v1-4.0+9ff28f4095-d277fee6a6187b9c.jar"
-hash = "9c2bef25c19441ebfcd355ef0bb142ad821df304a93917c0de2b2cefdeeab8b9"
-
-[[files]]
-file = ".fabric/processedMods/fabric-particles-v1-1.0.8+dc39553a95-e14f6b87f6b82d96.jar"
-hash = "4a8fba8ced1d178220da2d2b99d5b9d79d6a9dc5cecdaa357650bc50f51cc780"
-
-[[files]]
-file = ".fabric/processedMods/fabric-registry-sync-v0-0.9.21+23c4cfef95-f34d9010050828e4.jar"
-hash = "e0ef2eb1d6bba3de369c08c62f492ebbccc9e1405d397caa78c71c0b8b93b6c3"
-
-[[files]]
-file = ".fabric/processedMods/fabric-renderer-api-v1-1.0.8+9ff28f4095-4408cd446044541f.jar"
-hash = "a0c52047dfd1fe2cc44fac4e2954033610e15f026c369df852889408984dedf1"
-
-[[files]]
-file = ".fabric/processedMods/fabric-renderer-indigo-0.6.10+5187d39f95-c76e0e3ceb6f9512.jar"
-hash = "950cd3d3a871476740d4e67c14783f8255c6bb262aa6580d0a6c49f2d8b37755"
-
-[[files]]
-file = ".fabric/processedMods/fabric-renderer-registries-v1-3.+df3654b395-edd350e077ab79ff.jar"
-hash = "64b14c4d4298516f80bf852f6d2c5114d2d3e8d93bac88faa4f986fc4d71317c"
-
-[[files]]
-file = ".fabric/processedMods/fabric-rendering-data-attachment+9ff28f4095-c8e96459844b35f2.jar"
-hash = "e47937c3ac308d4bb316d9c881f5046ee30cb41194e8aa2432a260dd6028a04d"
-
-[[files]]
-file = ".fabric/processedMods/fabric-rendering-fluids-v1-3.0.5+9ff28f4095-fcda2bed9ff8e16a.jar"
-hash = "15fd0eeb1e23d1a7e2c6f248c60afa48577b5efcb15e4bb317f78f41fd981f7e"
-
-[[files]]
-file = ".fabric/processedMods/fabric-rendering-v0-1.1.20+df3654b395-4211c6f0c1fdb72c.jar"
-hash = "7a603ed64d1e17d405ee5604cab479bb0ebecd0628a49f6cdb72e4a1f58c62fb"
-
-[[files]]
-file = ".fabric/processedMods/fabric-rendering-v1-1.10.14+9ff28f4095-e492d4adb0fcbc73.jar"
-hash = "cb267579249a037ce3ef55ece4b270d4fa7b25dc414883b2d3a392007cca906f"
-
-[[files]]
-file = ".fabric/processedMods/fabric-resource-conditions-api-v+e62f51a395-ce9395f9d2aea881.jar"
-hash = "43d3963a3909ebd901d48f33c72e911cf9acd475f77e45557409774c9584e3da"
-
-[[files]]
-file = ".fabric/processedMods/fabric-resource-loader-v0-0.5.6+5f1a85e095-b4f469cad7816c59.jar"
-hash = "4b98bbca108a1ad1de22c043f7466feac3e4db605a24d78c66c33c33eb1b4d35"
-
-[[files]]
-file = ".fabric/processedMods/fabric-screen-api-v1-1.0.24+f05effaf95-67d6b1c32bce22ee.jar"
-hash = "9a0e769faf06e02e5e853250f54dfaadc96707f629da51c6d7c318d26cc1dec6"
-
-[[files]]
-file = ".fabric/processedMods/fabric-screen-handler-api-v1-1.2+9ff28f4095-e89ee3c1b19334a8.jar"
-hash = "4de21003d4e7fcb68129a6ab0605fc5226eda8b1df1ced87946d1ce148e9f62a"
-
-[[files]]
-file = ".fabric/processedMods/fabric-textures-v0-1.0.18+9ff28f4095-ac5a685f95e71d2d.jar"
-hash = "24e307336fa6a0f9d6fbd22a9208e54cad4a3def7ae58c25bee665ed17022b1f"
-
-[[files]]
-file = ".fabric/processedMods/fabric-transfer-api-v1-2.0.9+e62f51a395-c49d5b84129f4a9b.jar"
-hash = "c6963ade4bfaa3bb9364900d0271b2aabee7b74ba7cd4660fb65ca623d75dfa3"
-
-[[files]]
-file = ".fabric/processedMods/fabric-transitive-access-widener+9e7660c695-89492497be9267b5.jar"
-hash = "a17476ff0d8877a48336436ca1cc74c7d22dc0829de05805118b16c5e3be805c"
-
-[[files]]
-file = ".fabric/processedMods/org_anarres_jcpp-1.4.14-63555bd60a187a13.jar"
-hash = "2c8f26f49031e04fad90bb6abaafc55898a1e5d7c113d443e574c034323c2484"
-
-[[files]]
-file = ".fabric/processedMods/org_joml_joml-1.10.4-c1ee7e5d34af59a7.jar"
-hash = "f4309bd3ae8a1e936dfbaecba3f041057f9f5093f4a3be6f5faec7cae45c366a"
-
-[[files]]
-file = ".fabric/processedMods/pride-1.1.2+1.19-8ffd604074c51ab1.jar"
-hash = "3af261200014a542d0d8dd51578069019feb188daae38c7fdb778322dcdd3660"
-
-[[files]]
-file = ".fabric/processedMods/spruceui-4.0.0+1.19-c7ce52250292197b.jar"
-hash = "c4e789d2d7e546c9628a801ae155e314d6815066ad868f7372b848f5d224635c"
-
-[[files]]
-file = ".fabric/remappedJars/minecraft-1.19.1-0.14.8/client-intermediary.jar"
-hash = "9d95671038f1261633412dde515bd92f3c0b0767254c76c02d74b146616f1bb4"
-
-[[files]]
 file = "config/NoChatReports.json"
 hash = "abf0f485769067aba3357ea48470a1a3214534a6c31ec29e39c0d100899a0f83"
 
@@ -414,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5c29672e914ed228c0e79891bb13291aa56c2bdbf7e7b6c47c2c3376ee17fcd6"
+hash = "abf0e5c84dc260ae47990e7fd68f2f0d632582ffa535c5dd7dcaff58414a019b"
 metafile = true
 
 [[files]]
@@ -431,11 +223,6 @@ file = "mods/replayvoicechat-1.16+-1.1.0.jar"
 hash = "b600f4361588efa62f481dcd149751f353d136089efbe2a32d7ce8cec8b78f77"
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "8be65a7ceacd2fe5a375adc1b5754d17ca656b127bd2c4ef758a5ac1b2ebe898"
-metafile = true
-
-[[files]]
 file = "mods/sodium-fabric-mc1.19-0.4.2 (replaymod compatible).jar"
 hash = "f6d991dba5b5435b40797452715699eff602809bf73adc27ab003568e51b6dcd"
 
@@ -446,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "271db4eeb581bb1e71081b2b6268e81ac83bf68208a062dc63cd462faa2f7730"
+hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
 metafile = true
 
 [[files]]

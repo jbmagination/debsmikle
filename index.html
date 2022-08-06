@@ -9,30 +9,92 @@
       p, li {
         font-size: 125%;
       }
+      img {
+        width: 50%;
+      }
     </style>
   </head>
   <body>
     <h1>Downloading the modpack</h1>
     <p>You need <a href="https://www.minecraft.net/en-us/store/minecraft-java-edition">Minecraft: Java Edition</a> and a compatible launcher (see section below) in order to use this modpack.</p>
     <p style="font-size:150%;">You can download the modpack by clicking <a href="https://github.com/jbmagination/debsmikle/releases/latest/download/debsmikle.zip">here</a>.</p>
+    
     <h2>Compatible launchers</h2>
     <p>This modpack is compatible with any of the following launchers:</p>
     <ul>
-      <li><a href="https://polymc.org/">PolyMC</a></li>
+      <li><a href="https://polymc.org/">PolyMC</a> <i>(recommended)</i></li>
       <li><a href="https://multimc.org/">MultiMC</a></li>
       <li><a href="https://github.com/MinecraftMachina/ManyMC/">ManyMC</a></li>
       <li><a href="https://gdevs.io/">GDLauncher</a></li>
       <li><a href="https://download.curseforge.com/">CurseForge</a></li>
       <li><a href="https://atlauncher.com/">ATLauncher</a></li>
       <li><a href="https://tlauncher.org/">TLauncher</a></li>
+      <li><a href="https://www.minecraft.net/en-us/download">Minecraft Launcher</a></li>
       <li>...or any other launcher that claims to support any of the above</li>
     </ul>
+
     <h2>"Installing" the modpack</h2>
-    <p><b>PolyMC, MultiMC, and ManyMC users:</b> Press <i>Add Instance</i>, then on the sidebar choose <i>Import from zip</i>. Select the .zip file in your files, then choose <i>OK</i>. You can then open the instance as normal.</p>
-    <p><b>GDLauncher users:</b> Press the + in the bottom-left corner to add a new instance, then select <i>Import Zip</i> from the top bar. Select the .zip file in your files, then choose <i>OK</i> and go to the next page. Set a name (or go with the default "debsmikle"), then go to the next page. Once everything finishes downloading, you can open the instance as normal.</p>
-    <p><b>CurseForge users:</b> Under the game <i>Minecraft</i>, choose <i>Create Custom Profile</i>. Then, choose <i>Or <u>import</u> a previously created profile</i>. Once everything finishes downloading, you can open the profile as normal.</p>
-    <p><b>ATLauncher users:</b> Under the <i>Instances</i> tab, press the <i>Import</i> button in the top-left corner. Select the .zip file in your files, then choose <i>Import</i>. Leave everything as-is and choose <i>Install</i>. Once the instance finishes being imported, you can open the instance as normal.</p>
-    <p><b>TLauncher users:</b> You have very specific instructions that are better in its own guide. You can find that guide <a href="./tlauncher.html">here</a>.</p>
+    <h3>PolyMC, MultiMC, and ManyMC users</h3>
+    <p>Drag and drop the ZIP file into the launcher, then choose <i>OK</i> in the dialog that appears.</p>
+    <img src="./images/polymc.png">
+    <p>You can then open the instance as normal.</p>
+    
+    <h3>GDLauncher users</h3> 
+    <p>Press the + in the bottom-left corner to add a new instance, then select <i>Import Zip</i> from the top bar. Select the ZIP file in your files, then choose <i>OK</i> and go to the next page.</p>
+    <p>Set a name (or go with the default "debsmikle"), then go to the next page.</p>
+    <p>Once everything finishes downloading, you can open the instance as normal.</p>
+    
+    <h3>CurseForge users</h3> 
+    <p>Under the game <i>Minecraft</i>, choose <i>Create Custom Profile</i>.</p>
+    <img src="./images/curseforge1.png">
+    <p>Then, choose <i>Or <u>import</u> a previously created profile</i>.</p>
+    <img src="./images/curseforge2.png">
+    <p>Once everything finishes downloading, you can open the profile as normal.</p>
+    
+    <h3>ATLauncher users</h3> 
+    <p>Under the <i>Instances</i> tab, press the <i>Import</i> button in the top-left corner.</p>
+    <img src="./images/atlauncher1.png">
+    <p>Select the ZIP file in your files, then choose <i>Import</i>.</p>
+    <img src="./images/atlauncher2.png">
+    <p>Leave everything as-is and choose <i>Install</i>.</p>
+    <img src="./images/atlauncher3.png">
+    <p>Once the instance finishes being imported, you can open the instance as normal.</p>
+    
+    <h3>TLauncher users</h3>
+    <p>First, press the <i>TLMods</i> button. Choose the <i>Create</i> button at the top.</p>
+    <img src="./images/tlauncher1.png">
+    <p>write "debsmikle" as the modpack name. Set the game version to 1.19.1 if it's not set to that already - everything else can be as-is. Choose <i>Create</i>.</p>
+    <p>"debsmikle" should now be a selected modpack. Open the dropdown, and select the management icon next to "debsmikle". Then, choose <i>Open the mod-pack folder</i>.</p>
+    <img src="./images/tlauncher2.png" border=1>
+    <p><i>You need to enable hidden files on Windows (<a href="https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5">guide</a>) and macOS (do CMD+SHIFT+.)!</i>
+      Extract the ZIP and open the contents of either the <i>.minecraft</i> or <i>overrides</i> folder. Copy or move the contents of that folder into the folder that was just opened in TLauncher.</p>
+    <p>Under which version you want to select for launching Minecraft, choose <i>Release debsmikle</i>.</p>
+    <img src="./images/tlauncher3.png" border=1>
+    <p>You can now launch the game as normal.</p>
+    <p><i>Upon first launch, you will most likely see a Jumploader splash screen. TLauncher currently only supports Forge, and this mod makes it load Fabric instead.</i></p>
+    <img src="./images/tlauncher4.png">
+    
+    <h3>Minecraft Launcher users</h3>
+    <p>Under <i>Minecraft: Java Edition</i>, go to <i>Installations</i>, then <i>New installation</i>.</p>
+    <img src="./images/mclauncher1.png">
+    <p>Set the version to <i>release 1.19.1</i>.</p>
+    <img src="./images/mclauncher2.png">
+    <p>Save and start this installation, and then immediately close the game <b>as well as the launcher</b> once you get to the main menu.</p>
+    <p>Visit <a href="https://fabricmc.net/use/installer/">the Fabric download page</a>, and download the installer. When you open it, set the Minecraft version to 1.19.1.</p>
+    <img src="./images/mclauncher3.png">
+    <p>Once it installs, open the Minecraft launcher. Go back to <i>Installations</i>, but this time choose the three dots next to "fabric-loader-1.19.1", then choose <i>Edit</i>.</p>
+    <img src="./images/mclauncher4.png">
+    <p>Set the icon to an oak wooden plank, and the name to "debsmikle".</p>
+    <p>For the game directory, select <i>BROWSE</i> and you should appear in the default Minecraft game directory. Make a new folder here as a place to store the modpack files. I personally have a folder named "instances", and within it is a folder named "debsmikle".</p>
+    <img src="./images/mclauncher5.png">
+    <p>Because we installed Fabric while the launcher was closed, it should still be the default. Try playing with the installation "debsmikle", and check the box that says "I understand the risks. Don't warn me again about this installation." before pressing <i>Play</i> again.</p>
+    <img src="./images/mclauncher6.png">
+    <p>Once the game starts, immediately close the game once you get to the main menu. You can keep the launcher up if you'd like.</p>
+    <p><i>You need to enable hidden files on Windows (<a href="https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5">guide</a>) and macOS (do CMD+SHIFT+.)!</i>
+      Extract the ZIP and open the contents of either the <i>.minecraft</i> or <i>overrides</i> folder. Copy or move the contents of that folder into the modpack file folder we made.</p>
+    <p>If you closed the launcher, reopen it. With the installation "debsmikle" selected, you can launch the game as normal.</p>
+
+    <p></p>
     <h1>Full mod list</h1>
     <ul>
       <li><a href="https://modrinth.com/mod/sodium">Sodium</a> 0.4.2</li>
@@ -51,17 +113,36 @@
       <li><a href="https://modrinth.com/mod/continuity">Continuity</a> 2.0.0</li>
       <li><a href="https://modrinth.com/mod/zoomify">Zoomify</a> 2.0.2</li>
       <li><a href="https://modrinth.com/mod/midnightcontrols">MidnightControls</a> 1.5.0</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/jumploader">Jumploader</a> (<a href="https://github.com/jbmagination/Jumploader">fork</a>) 2.4.0</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/cloth-config">Cloth Config API</a> 8.0.75</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/creativecore">CreativeCore</a> 2.7.4</li>
+      <li><a href="https://modrinth.com/mod/fabric-api">Fabric API</a> 0.58.5</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric">FancyMenu</a> 2.12.0</li>
+      <li><a href="https://modrinth.com/mod/indium">Indium</a> 1.0.7</li>
+      <li><a href="https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric">Konkrete</a> 1.5.0</li>
     </ul>
+    
     <h1>Changelog</h1>
-    <h2>1.0.1</h2>
+    <h2>1.1.1</h2>
+    <ul>
+      <li>Added support for <a href="https://www.minecraft.net/en-us/download">Minecraft Launcher</a></li>
+      <li>Fixed <a href="https://packwiz.infra.link/">Packwiz</a> updating</li>
+      <li>Added <a href="https://www.curseforge.com/minecraft/mc-mods/jumploader">Jumploader</a> (<a href="https://github.com/jbmagination/Jumploader">fork</a>) 2.4.0 to ZIP file</li>
+      <li>Updated <a href="https://modrinth.com/mod/zoomify">Zoomify</a> from 2.0.2 to 2.0.3</li>
+      <li>Updated <a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a> from 1.8.2 to 1.8.4</li>
+      <li>Updated the website and completed mod list</li>
+    </ul>
+    <h2>1.1.0</h2>
     <ul>
       <li>Implemented <a href="https://packwiz.infra.link/">Packwiz</a> updating for PolyMC, MultiMC, and ManyMC</li>
       <li>Added support for <a href="https://tlauncher.org/">TLauncher</a></li>
+      <li>Added <a href="https://www.curseforge.com/minecraft/mc-mods/jumploader">Jumploader</a> (<a href="https://github.com/jbmagination/Jumploader">fork</a>) 2.4.0</li>
       <li>Added <a href="https://modrinth.com/mod/continuity">Continuity</a> 2.0.0</li>
       <li>Added <a href="https://modrinth.com/mod/zoomify">Zoomify</a> 2.0.2</li>
       <li>Added <a href="https://modrinth.com/mod/midnightcontrols">MidnightControls</a> 1.5.0</li>
       <li>Removed <a href="https://modrepo.de/minecraft/voicechat/overview">Simple Voice Chat</a> 2.3.0</li>
       <li>Removed <a href="https://modrinth.com/mod/replay-voice-chat">Replay Voice Chat</a> 1.1.0 (the original - not the fork)</li>
+      <li>Changed links on the website from CurseForge to Modrinth where possible</li>
     </ul>
     <h2>1.0.0</h2>
     <ul>
