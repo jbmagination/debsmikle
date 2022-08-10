@@ -1,0 +1,13 @@
+name = "McMouser"
+filename = "mcmouser-1.19-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "023ff9b2bd8c29d9fca9973ceb96c1cf81998ade"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821311
+project-id = 556331

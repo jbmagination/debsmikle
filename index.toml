@@ -121,13 +121,18 @@ file = "icon.png"
 hash = "ef196d020d36efe25646b7420731bcde00fff4c4c6670027c05ff98d065a1f48"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
+hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
 metafile = true
 
 [[files]]
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "394c342b527dacb000b47c9ffef045daea3861217e74d1cdc0047a8deb44b7c6"
+hash = "74164d4bf654579d96d6602f4a2435224bd57dd39082dac92a0b564939ebf433"
 metafile = true
 
 [[files]]
@@ -158,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
-metafile = true
-
-[[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "7befee16152b92859affdb23cf8015c71c6f3cf39f8e544a8af67462595241c7"
 metafile = true
 
 [[files]]
@@ -186,7 +186,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ab6559c392627be06948d290c10b1af211e0c153b8a333b885e2dc910f18d47f"
+hash = "84f503cded48e09f4991f73d05b483113ca57b3689ecab09f4d29846b98bb9c1"
+metafile = true
+
+[[files]]
+file = "mods/mcmouser.pw.toml"
+hash = "d6252739bdc77b58fcadff056d136b8043117c92739dec578e361232ab054eb3"
 metafile = true
 
 [[files]]
@@ -201,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e441993c15186052f35a1981df9011175d285a35e1d54b856c7c8ae2e0377b7e"
+hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
 metafile = true
 
 [[files]]
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "abf0e5c84dc260ae47990e7fd68f2f0d632582ffa535c5dd7dcaff58414a019b"
+hash = "bafac921dfa07632398d5142ab691e876d7446619c9e8f6bb052cd2c4b813fe5"
 metafile = true
 
 [[files]]
@@ -228,12 +233,17 @@ file = "mods/replayvoicechat-1.16+-1.1.0.jar"
 hash = "b600f4361588efa62f481dcd149751f353d136089efbe2a32d7ce8cec8b78f77"
 
 [[files]]
+file = "mods/sodium-crash-fix.pw.toml"
+hash = "129c81aabca28789e11b582427203012b0f8dcf03a7a3b5294c3bda5fbf773c4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-mc1.19-0.4.2 (replaymod compatible).jar"
 hash = "f6d991dba5b5435b40797452715699eff602809bf73adc27ab003568e51b6dcd"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "77a72e06541d13fb0220a959054913cb9f97bb412e8062cf581beebf3e37b644"
+hash = "6a705131f8d3c8d29b6f06095a338614e07369abfee9b8d7ec507437bfb64368"
 metafile = true
 
 [[files]]

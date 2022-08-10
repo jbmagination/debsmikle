@@ -1,13 +1,13 @@
 name = "debsmikle"
 author = "JBMagination"
-version = "1.1.2"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7f604f0966dcdbe70e26459bda457bf65d1dfed1416df86e7065d7924da81875"
+hash = "52cd737316f22cfc24c9517d9a0789ecdb273c039b2f1a52fbf038e0a307ee86"
 
 [versions]
 fabric = "0.14.9"
-minecraft = "1.19.1"
+minecraft = "1.19.2"
